@@ -5,8 +5,6 @@ import styles from '@/styles/Home.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
-const foo = "bar"
-
 export default function Home() {
   return (
     <>
