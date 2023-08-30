@@ -1883,12 +1883,12 @@
     prop-types "^15.7.2"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-mdx-gfm@^7.0.5":
-  version "7.0.5"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-mdx-gfm/-/addon-mdx-gfm-7.0.5.tgz#35d73e93339f2bec2cc93d6cd9539631ce67e6a8"
-  integrity sha512-96cxnD0KzoM88MoqtvyuwORTPQtKbJk+5YTBALUD51POGdnOspZ6gLygM+otECrPxYDluhMR3Wx15HFc+C437g==
+"@storybook/addon-mdx-gfm@^7.4.0":
+  version "7.4.0"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-mdx-gfm/-/addon-mdx-gfm-7.4.0.tgz#f9b05edb652273475e85f8b9786f85f70b65ae2b"
+  integrity sha512-u4/9jMlfDVsnW0Ker3ckQDKLWYPn5GTalgHTphHTDGdnmL0OhsyvkF8cuSk55XA5G1L6IG4oOeFsGRqyIKcMQA==
   dependencies:
-    "@storybook/node-logger" "7.0.5"
+    "@storybook/node-logger" "7.4.0"
     remark-gfm "^3.0.1"
     ts-dedent "^2.0.0"
 
@@ -2430,6 +2430,11 @@
     chalk "^4.1.0"
     npmlog "^5.0.1"
     pretty-hrtime "^1.0.3"
+
+"@storybook/node-logger@7.4.0":
+  version "7.4.0"
+  resolved "https://registry.yarnpkg.com/@storybook/node-logger/-/node-logger-7.4.0.tgz#808ed8a63e3bc2f97a2d276b4e8ddaa72b79deb0"
+  integrity sha512-tWSWkYyAvp6SxjIBaTklg29avzv/3Lv4c0dOG2o5tz79PyZkq9v6sQtwLLoI8EJA9Mo8Z08vaJp8NZyDQ9RCuA==
 
 "@storybook/postinstall@7.0.5":
   version "7.0.5"
